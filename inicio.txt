@@ -1,0 +1,4 @@
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+>>
+PS D:\27062003\Desktop\qmlproyecto> & "C:\Users\USUARIO\q-inspire\env\Scripts\Activate.ps1"
+>>
